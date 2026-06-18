@@ -1,0 +1,3 @@
+This is a placeholder file for the PowerBI_Dashboard.pbix. 
+
+Due to the proprietary binary format of Power BI (.pbix) files, you should open Power BI Desktop, import the dataset located at `data/healthcare_dataset.csv`, and implement the visual components as documented in `dashboard/PowerBI_Dashboard_Guide.md`. Once complete, save your file over this placeholder.
