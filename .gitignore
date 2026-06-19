@@ -15,7 +15,7 @@ downloads/
 eggs/
 .eggs/
 lib/
-lib64/
+lib64/0
 parts/
 sdist/
 var/
@@ -44,5 +44,5 @@ Thumbs.db
 
 # Project-specific exclusions
 data/*.csv
-models/*.pkl
-models/*.joblib
+#models/*.pkl
+#models/*.joblib
